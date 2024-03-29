@@ -36,7 +36,7 @@ Ao longo deste curso, desenvolvi habilidades cruciais para a análise de dados, 
 - **Machine Learning:** Introdução aos conceitos de modelagem preditiva e sua aplicação em análises financeiras.
 
 ## 🌐 Conecte-se Comigo
-- [LinkedIn](#) (https://www.linkedin.com/in/larissa-lopes-30a23714b/)
-- [GitHub](#) (https://github.com/Larisloppes)
+- [LinkedIn](https://www.linkedin.com/in/larissa-lopes-30a23714b/)
+- [GitHub](https://github.com/Larisloppes)
 
 Espero que este repositório inspire e motive outros analistas e entusiastas de dados a explorar o potencial do Python e outras ferramentas no mundo da análise de dados.
