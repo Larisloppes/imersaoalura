@@ -40,3 +40,5 @@ Ao longo deste curso, desenvolvi habilidades cruciais para a análise de dados, 
 - [GitHub](https://github.com/Larisloppes)
 
 Espero que este repositório inspire e motive outros analistas e entusiastas de dados a explorar o potencial do Python e outras ferramentas no mundo da análise de dados.
+
+Desenvolvido por Larissa Lopes com ❤️ e muita atenção aos detalhes.
